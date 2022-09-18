@@ -1,4 +1,4 @@
-module github.com/Lantern271/proglog.git
+module github.com/Lantern271/proglog
 
 go 1.15
 
