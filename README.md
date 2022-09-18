@@ -1,2 +1,2 @@
 # proglog
-"GO言語による分散サービス"写経用レポジトリ
+Following "Distributed Services with Go"
